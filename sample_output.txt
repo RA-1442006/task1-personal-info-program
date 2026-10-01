@@ -1,0 +1,33 @@
+==========================================================
+           WELCOME TO THE PERSONAL INFO SYSTEM            
+==========================================================
+Please answer the following questions to build your profile.
+
+Enter your full name: Alex Morgan
+Enter your age (in years): 22
+Enter your height in centimeters (cm): 175.0
+Enter your city of residence: Seattle
+Enter your email address: alex.morgan@example.com
+Enter your favorite programming language: Python
+Enter your primary hobby: Photography
+Enter your short one-line goal: Become a proficient Python developer and build impactful applications.
+
+==========================================================
+                    USER PROFILE CARD                     
+==========================================================
+  Field                    | Details
+----------------------------------------------------------
+  Full Name                | Alex Morgan
+  Current Age              | 22 years
+  Age in 5 Years           | 27 years
+  Height                   | 175.0 cm (5 ft 9 in)
+----------------------------------------------------------
+  City                     | Seattle
+  Email                    | alex.morgan@example.com
+----------------------------------------------------------
+  Favorite Language        | Python
+  Primary Hobby            | Photography
+  One-Line Goal            | Become a proficient Python developer and build impactful applications.
+==========================================================
+             Profile generated successfully!              
+==========================================================
